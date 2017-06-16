@@ -1,19 +1,48 @@
+html {
+  background-color: black;
+  text-align: center;
+
+}
+
 h1,
 h2,
 p {
    font-family: Verdana;
+
 }
 
 h1,
 h2 {
     color: white;
+
+}
+
+h1{
+  font-weight: normal;
+  font-size: 50px;
+  text-align: center;
+
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
 }
 
 p {
+  font-size: 21px;
   color: grey;
+
 }
 
 .link {
   color: aquamarine;
   font-size: 16px;
+
 }
+
+ .copyright {
+   color: gray;
+   text-align: right;
+   
+ }
